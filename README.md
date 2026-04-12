@@ -1,6 +1,6 @@
-# BLACKBAY TOKEN FILLER V2.0
+# Hosting Guard TOKEN FILLER V2.0
 ## Multi-Threading • Proxy Support • Captcha Solver
-### MADE BY F6Z2 | discord.gg/blackbay
+### MADE BY F6Z2 | discord.gg/hosting-guard
 
 ---
 
